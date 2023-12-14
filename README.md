@@ -73,4 +73,8 @@ Below is a column chart generated in RStudio which visualizes a subset of mass s
 <img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/VoluntaryInvoluntaryBar.png?raw=true" width="500" height="500"/>
 </p>
 
+Mental Illness is a categorical, numerically coded nominal variable with five levels, as defined in The Violence Project Database codebook: 0 = No Evidence, 1 = Mood Disorder, 2 = Thought Disorder, 3 = Other Psychiatric Disorder, 4 = Undiagnosed Psychiatric Disorder. There is no missing data for the variable, which is the first thing we check. We use RStudio to calculate a frequency table and the number of counts per level.
+<p align="center">
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/MentalIllnessofPerp.png?raw=true" width="600" height="300"/>
+</p>
 
