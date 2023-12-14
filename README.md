@@ -52,5 +52,5 @@ In order to capture Perpetrators with suicidal ideations in observations, I used
 By grouping two of the three levels, as we discuss above, we can employ RStudio and write R code that generates the following descriptive statistics and appropriate visualizations for suicidal behavior.
 
 <p align="center">
-<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/FrequencySuicidality.png?raw=true" width="600" height="150"/>
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/AdjustedSuicideTable.png?raw=true" width="600" height="150"/>
 </p>
