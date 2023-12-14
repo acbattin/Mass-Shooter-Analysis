@@ -58,3 +58,8 @@ By grouping two of the three levels, as we discuss above, we can employ RStudio 
 <p align="center">
 <img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/SuicidalEvidenceBar.png?raw=true" width="500" height="500"/>
 </p>
+
+Prior Hospitalization is a binary variable with two levels: 0 = No Evidence and 1 = Yes regarding whether the Perpetrator was hospitalized for psychiatric reasons at any point prior to the mass shooting they committed. 
+<p align="center">
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/HospitalizationBars.png?raw=true" width="500" height="500"/>
+</p>
