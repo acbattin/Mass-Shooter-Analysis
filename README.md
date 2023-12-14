@@ -65,7 +65,9 @@ Prior Hospitalization is a binary variable with two levels: 0 = No Evidence and 
 </p>
 
 Voluntary or Involuntary Hospitalization is a categorical, numerically coded nominal variable with three levels: N/A = 0, Voluntary = 1, and Involuntary = 2. Imported into RStudio and then calculated the counts at each level for the variable and produced the following table with the R code output.
-
+<p align="center">
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/VoluntaryInvoluntaryTable.png?raw=true" width="600" height="150"/>
+</p>
 Below is a column chart generated in RStudio which visualizes a subset of mass shooters, those that were hospitalized for psychiatric reasons prior to the mass shooting event, the goal of the plot is to display the difference between the number of mass shooters that were hospitalized voluntarily and the number of those that were under an involuntary hospitalization.
 <p align="center">
 <img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/VoluntaryInvoluntaryBar.png?raw=true" width="500" height="500"/>
