@@ -73,6 +73,15 @@ Below is a column chart generated in RStudio which visualizes a subset of mass s
 <img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/VoluntaryInvoluntaryBar.png?raw=true" width="500" height="500"/>
 </p>
 
+Prior Counseling is a binary variable with only two levels: 0 = No Evidence and 1 = Yes regarding whether the Perpetrator was hospitalized for psychiatric reasons at any point prior to the mass shooting they committed. Prior Counseling is regarded as an indicator of Treatment4 by the Primary Investigators.
+<p align="center">
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/CounselingTable.png?raw=true" width="600" height="125"/>
+</p>
+<p align="center">
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/CounselingPlot.png?raw=true" width="500" height="500"/>
+</p>
+
+
 Mental Illness is a categorical, numerically coded nominal variable with five levels, as defined in The Violence Project Database codebook: 0 = No Evidence, 1 = Mood Disorder, 2 = Thought Disorder, 3 = Other Psychiatric Disorder, 4 = Undiagnosed Psychiatric Disorder. There is no missing data for the variable, which is the first thing we check. We use RStudio to calculate a frequency table and the number of counts per level.
 <p align="center">
 <img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/MentalIllnessTable.png?raw=true" width="600" height="200"/>
