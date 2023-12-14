@@ -32,3 +32,16 @@ Below is a table that includes the calculated proportion of mass shooters in the
 <p align="center">
 <img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/BehaviorChangeTable.png?raw=true" width="600" height="300"/>
 </p>
+
+# What Can be Said About the Mental Health Background of Mass Shooters in the United States?
+The health and mental health variables in the dataset are as follows: Suicidality, Prior Hospitalization, Voluntary or Involuntary Hospitalization, Prior Counseling, Treatment 6 Months Prior to Shooting, and Mental Illness. The skim() function in RStudio was run and the data summary showed that no observations are missing data for any of the health and mental health variables. Suicidality is defined in the Glossary and is a categorical variable with three levels: 0 = No Evidence, 1 =Yes, at any point before the shooting, and 2 = Intended to die in shooting but had no previous suicidality. Thus, we calculate the counts and proportions in the dataset.
+
+<p align="center">
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/FrequencySuicidality.png?raw=true" width="600" height="150"/>
+</p>
+
+As confirmed in the table above and column chart below, the total count of mass shooters in the United States that was the highest was for the group of perpetrators that intended to die in the shooting but had no previous suicidality, though not by a significant margin 
+
+<p align="center">
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/SuicidalityBarCounts.png?raw=true" width="500" height="500"/>
+</p>
