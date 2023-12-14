@@ -16,3 +16,4 @@ Question 3. What (if any) variables are most closely correlated with Suicidality
 
 # What Signs of Being in a Crisis were Observed?
 Calculate summary statistics for the crisis variables, present summary statistics for the following variables: Signs of Being in Crisis – table of counts/proportions for this discrete, binary variable’s values 0 and 1 where 0 indicates No Evidence and 1 indicates Yes, there was evidence of the perpetrator’s circumstances overwhelming their coping mechanisms causing a marked change in behavior from baseline. We confirm that there is no missing data and create bar chart for counts by reported level because this is a categorical, binary variable to visualize the proportion of Perpetrators that demonstrated a marked change in behavior from baseline.
+*
