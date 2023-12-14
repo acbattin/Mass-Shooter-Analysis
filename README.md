@@ -7,6 +7,7 @@ The Violence Project Database is the largest, most comprehensive source of infor
 # Questions of Interest
 Three questions of interest are specified in the above dataset selection and description,
 and they are numbered accordingly and are as follows:
+
 Question 1. What (if any) Signs of Being in A Crisis were observed?
 
 Question 2. What can be said about the mental health background of mass shooters in the United States?
