@@ -37,7 +37,7 @@ Below is a table that includes the calculated proportion of mass shooters in the
 The health and mental health variables in the dataset are as follows: Suicidality, Prior Hospitalization, Voluntary or Involuntary Hospitalization, Prior Counseling, Treatment 6 Months Prior to Shooting, and Mental Illness. The skim() function in RStudio was run and the data summary showed that no observations are missing data for any of the health and mental health variables. Suicidality is defined in the Glossary and is a categorical variable with three levels: 0 = No Evidence, 1 =Yes, at any point before the shooting, and 2 = Intended to die in shooting but had no previous suicidality. Thus, we calculate the counts and proportions in the dataset.
 
 <p align="center">
-<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/FrequencySuicidality.png?raw=true" width="600" height="150"/>
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/FrequencySuicidality.png?raw=true" width="600" height="125"/>
 </p>
 
 As confirmed in the table above and column chart below, the total count of mass shooters in the United States that was the highest was for the group of perpetrators that intended to die in the shooting but had no previous suicidality, though not by a significant margin 
@@ -66,7 +66,7 @@ Prior Hospitalization is a binary variable with two levels: 0 = No Evidence and 
 
 Voluntary or Involuntary Hospitalization is a categorical, numerically coded nominal variable with three levels: N/A = 0, Voluntary = 1, and Involuntary = 2. Imported into RStudio and then calculated the counts at each level for the variable and produced the following table with the R code output.
 <p align="center">
-<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/VoluntaryInvoluntaryTable.png?raw=true" width="600" height="150"/>
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/VoluntaryInvoluntaryTable.png?raw=true" width="600" height="125"/>
 </p>
 Below is a column chart generated in RStudio which visualizes a subset of mass shooters, those that were hospitalized for psychiatric reasons prior to the mass shooting event, the goal of the plot is to display the difference between the number of mass shooters that were hospitalized voluntarily and the number of those that were under an involuntary hospitalization.
 <p align="center">
@@ -75,7 +75,7 @@ Below is a column chart generated in RStudio which visualizes a subset of mass s
 
 Mental Illness is a categorical, numerically coded nominal variable with five levels, as defined in The Violence Project Database codebook: 0 = No Evidence, 1 = Mood Disorder, 2 = Thought Disorder, 3 = Other Psychiatric Disorder, 4 = Undiagnosed Psychiatric Disorder. There is no missing data for the variable, which is the first thing we check. We use RStudio to calculate a frequency table and the number of counts per level.
 <p align="center">
-<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/MentalIllnessTable.png?raw=true" width="600" height="150"/>
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/MentalIllnessTable.png?raw=true" width="600" height="175"/>
 </p>
 We use R to generate a bar plot and follow good visualization practices to properly display the differing reported mental illness status of Perpetrators of mass public shootings in the U.S. since 1966. 
 <p align="center">
