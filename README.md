@@ -91,3 +91,8 @@ We use R to generate a bar plot and follow good visualization practices to prope
 <img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/MentalIllnessofPerp.png?raw=true" width="600" height="500"/>
 </p>
 
+# What (if any) health and mental health-related variables are most closely correlated with Suicidality?
+<p align="center">
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/CorPlot.png?raw=true" width="500" height="500"/>
+</p>
+
