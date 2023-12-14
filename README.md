@@ -20,3 +20,9 @@ Calculate summary statistics for the crisis variables, present summary statistic
 <p align="center">
 <img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/FrequencyCrisis.png?raw=true" width="600" height="150"/>
 </p>
+
+We now use RStudio to generate a column plot displaying the counts for Signs of Being in Crisis by group, Perpetrators that did not exhibit this and observations where there is no evidence of this being the case.
+
+<p align="center">
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/CrisisBars.png?raw=true" width="300" height="300"/>
+</p>
