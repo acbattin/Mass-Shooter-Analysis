@@ -114,3 +114,10 @@ The five different levels reported for mental illness capture the fact that only
 <p align="center">
 <img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/Q2Table.png?raw=true" width="600" height="200"/>
 </p>
+
+The variable Prior Counseling is the health and mental health variable measure most correlated with Suicidality. The correlation matrix and correlation plot allowed us to test for collinearity as well as aim to identify whether the response variable Suicidality was correlated with any of the health or mental health variables we explore and analyze on a deeper level in answering the question prior (Question 2). The total count of perpetrators that did not exhibit any evidence of suicidality was more than two times less than the total count of Perpetrators that exhibited any suicidal tendencies.
+
+The model with the lowest AIC is the model excluding the Mental Illness variable, with an AIC of 233.13. This model includes the explanatory health and mental illness variables Prior Hospitalization, Voluntary or Involuntary Hospitalization, Prior Counseling, Treatment 6 Months Prior to Shooting. The p-value for Prior Counseling in this model is p = 0.02496 which indicates that it is a statistically significant predictor variable because it is less than 0.05.
+<p align="center">
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/SuicidebyCounseling.png?raw=true" width="500" height="500"/>
+</p>
