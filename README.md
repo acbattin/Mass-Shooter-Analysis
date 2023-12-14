@@ -109,3 +109,8 @@ Using RStudio we can calculate the proportion of observations that have the “Y
 <p align="center">
 <img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/Q1Table.png?raw=true" width="600" height="200"/>
 </p>
+
+The five different levels reported for mental illness capture the fact that only 21.81% of Perpetrators of mass shooters exhibited no evidence whatsoever of a mental illness, diagnosed or not. The proportion of Perpetrators with Mood Disorders is equivalent to the proportion of Perpetrators with an Undiagnosed Psychiatric Disorder, their totals being marginally lower than the group of Perpetrators with a Thought Disorder, less than 2%.
+<p align="center">
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/Q2Table.png?raw=true" width="600" height="200"/>
+</p>
