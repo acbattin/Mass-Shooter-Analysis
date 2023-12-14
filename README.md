@@ -97,6 +97,7 @@ Below is a correlation plot generated in RStudio for the health and mental healt
 <p align="center">
 <img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/CorPlot.png?raw=true" width="600" height="600"/>
 </p>
+
 The response variable is binary, indicating whether the Perpetrator displayed Suicidality and in order to estimate the relationship between this variable type and other independent health and mental health-related variables, Prior Hospitalization, Voluntary or Involuntary Hospitalization, Prior Counseling, Treatment 6 Months Prior to Shooting and Mental Illness, is by creating a model.
 In RStudio, we conduct logistic regression where Suicidality is our binary explanatory variable. These models are written and generated in RStudio to predict Suicidality with independent, explanatory variables Prior Hospitalization, Voluntary or Involuntary Hospitalization, Prior Counseling, Treatment 6 Months Prior to Shooting and Mental Illness. We generate and test these models in R and determine the model with the lowest AIC does not include the Mental Illness variable but still includes the other health and mental illness variables Prior Hospitalization, Voluntary or Involuntary Hospitalization, Prior Counseling, Treatment 6 Months Prior to Shooting. The p- value for Prior Counseling in this model is p = 0.02496 which indicates that it is a statistically significant predictor variable because it is less than 0.05. The AIC for this model is 233.13. A screenshot of the model and R Console output is provided below
 
