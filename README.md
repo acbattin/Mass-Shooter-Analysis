@@ -75,9 +75,9 @@ Below is a column chart generated in RStudio which visualizes a subset of mass s
 
 Mental Illness is a categorical, numerically coded nominal variable with five levels, as defined in The Violence Project Database codebook: 0 = No Evidence, 1 = Mood Disorder, 2 = Thought Disorder, 3 = Other Psychiatric Disorder, 4 = Undiagnosed Psychiatric Disorder. There is no missing data for the variable, which is the first thing we check. We use RStudio to calculate a frequency table and the number of counts per level.
 <p align="center">
-<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/MentalIllnessTable.png?raw=true" width="600" height="300"/>
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/MentalIllnessTable.png?raw=true" width="600" height="150"/>
 </p>
-
+We use R to generate a bar plot and follow good visualization practices to properly display the differing reported mental illness status of Perpetrators of mass public shootings in the U.S. since 1966. 
 <p align="center">
 <img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/MentalIllnessofPerp.png?raw=true" width="600" height="500"/>
 </p>
