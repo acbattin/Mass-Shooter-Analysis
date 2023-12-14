@@ -48,7 +48,7 @@ As confirmed in the table above and column chart below, the total count of mass 
 
 In order to capture Perpetrators with suicidal ideations in observations, I used RStudio to create a new variable-level Evidence calculated by combining the two variable-levels “1” and “2” i.e., those that were not explicitly reported as exhibiting No Evidence of Suicidality. The perpetrators that exhibited suicidal ideation prior to the shooting and the perpetrators that intended to die in the shooting are both defining characteristics of Evidence of Suicidality. With this new variable Evidence, we then created a column chart that displays the total count of mass shooters in the US that exhibited any signs of suicidal behavior compared to those who showed no evidence of seeking out traditional suicide as well as suicide by law enforcement.
 
-# Suicidality (Adjusted to better identify Perpetrators that are more likely to be unaffected by armed-security, threat of death, etc.)
+ Suicidality (Adjusted to better identify Perpetrators that are more likely to be unaffected by armed-security, threat of death, etc.)
 By grouping two of the three levels, as we discuss above, we can employ RStudio and write R code that generates the following descriptive statistics and appropriate visualizations for suicidal behavior.
 
 <p align="center">
