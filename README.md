@@ -54,3 +54,7 @@ By grouping two of the three levels, as we discuss above, we can employ RStudio 
 <p align="center">
 <img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/AdjustedSuicideTable.png?raw=true" width="600" height="150"/>
 </p>
+
+<p align="center">
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/SuicidalEvidenceBar.png?raw=true" width="500" height="500"/>
+</p>
