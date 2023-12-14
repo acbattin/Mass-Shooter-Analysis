@@ -1,5 +1,5 @@
 # Mass-Shooter-Analysis
-Big Data Analysis project using The Violence Project database, a publicly available database containing information relating to mass shootings in the United States of America and the shooter's themselves. Using R and Python I aim to answer several questions of interest.
+Big Data Analysis project using The Violence Project database, a publicly available database containing information relating to mass shootings in the United States of America and the shooter's themselves. Using R and Python I aim to answer several questions of interest. The study conducted used the sixth iteration of the largest, most comprehensive source of information on the psychosocial histories of mass public shooters in the United States of America, The Violence Project Mass Shooter Database – Version 6.1, a database of mass public shootings in the United States from 1966 to Present. 
 
 # Dataset Information
 The Violence Project Database is the largest, most comprehensive source of information on the psychosocial histories of mass public shooters in the United States. It currently has over 180 independent variables and at the time of download, the reported size of the dataset is 989KB of data. Responsibility for the contents of the database lies solely with the Principal Investigators, professors Jillian Peterson (Hamline University) and James Densley (Metro State University). This project followed a research methodology that has proven effective in terrorism studies, which also are rare events that can result in mass casualties. The database was constructed using public records and open-source data.
@@ -104,4 +104,8 @@ In RStudio, we conduct logistic regression where Suicidality is our binary expla
 <img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/RConsoleModel.png?raw=true" width="600" height="600"/>
 </p>
 
-
+# Concluding Remarks
+Using RStudio we can calculate the proportion of observations that have the “Yes” flag for each of the crisis signal variables which are binary, categorical variables. I calculated the proportion of observations that indicated a marked change in their behavior. It is interesting to note that because these are binary variables i.e., because the variables below are coded as 0 (No Evidence) and 1, the proportion is equal to the mean.
+<p align="center">
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/Q1Table.png?raw=true" width="600" height="200"/>
+</p>
