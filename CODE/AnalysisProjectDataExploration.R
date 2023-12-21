@@ -1,5 +1,5 @@
 #---
-# title: "ABattin_AIT580 ANALYSIS Project"
+# title: "Mass Shooter Analysis - Battin"
 # output: pdf_document
 # date: "2023-03-03"
 # ---
