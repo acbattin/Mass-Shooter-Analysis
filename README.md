@@ -24,13 +24,13 @@ Calculate summary statistics for the crisis variables, present summary statistic
 We now use RStudio to generate a column plot displaying the counts for Signs of Being in Crisis by group, Perpetrators that did not exhibit this and observations where there is no evidence of this being the case.
 
 <p align="center">
-<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/CrisisBars.png?raw=true" width="500" height="500"/>
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/IMAGES/CrisisBars.png?raw=true" width="500" height="500"/>
 </p>
 
 Below is a table that includes the calculated proportion of mass shooters in the United States from 1966 to present that exhibited an observable change in their baseline behavior, for each of the binary, categorical variables Inability to Perform Daily Tasks, Notably Depressed Mood, Unusually Calm or Happy, Rapid Mood Swings, Increased Agitation, Abusive Behavior, Isolation, Losing Touch with Reality, and Paranoia. In line with best practices for categorical variables, the signs are ordered by variable level with largest proportion to smallest proportion.
 
 <p align="center">
-<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/BehaviorChangeTable.png?raw=true" width="600" height="300"/>
+<img src="https://github.com/acbattin/Mass-Shooter-Analysis/blob/main/IMAGES/BehaviorChangeTable.png?raw=true" width="600" height="300"/>
 </p>
 
 # What Can be Said About the Mental Health Background of Mass Shooters in the United States?
